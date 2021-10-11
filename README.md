@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alexandre Gonçalo
 
-- Estudando Linux, branches (git) e análise de requisitos
+- Estudando Linux, branches (git) e Java
 - Pronouns: ele/dele
 
  <div>
