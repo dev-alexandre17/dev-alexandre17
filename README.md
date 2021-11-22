@@ -1,6 +1,6 @@
-### Olá! Eu sou Alexandre Gonçalo
+### Hi there! This is Alexandre!
 
-- Estudando Linux, branches (git) e Java
+- I'm learning Java, Linux e SQL.
 - Pronouns: ele/dele
 
  <div>
