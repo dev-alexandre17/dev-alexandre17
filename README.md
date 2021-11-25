@@ -1,6 +1,6 @@
 ### Hi there! This is Alexandre!
 
-- I'm learning Java, Linux e SQL.
+- I'm learning Java, Linux and SQL.
 - Pronouns: ele/dele
 
  <div>
