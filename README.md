@@ -1,7 +1,9 @@
 ### Hi there! This is Alexandre!
 
-- I'm learning Java, Linux and SQL.
-- Pronouns: ele/dele
+- 👨‍💻 I'm learning Java, Linux and SQL.
+- 🎵 I love to listen lo-fi for homework, study, programming and others.
+- 🎮 Play games is my leisure in spare time.
+- 📚 I like to read books and ebooks.
 
  <div>
   <a href="https://github.com/dev-alexandre17">
