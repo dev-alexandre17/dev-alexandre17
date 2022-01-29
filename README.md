@@ -1,6 +1,6 @@
 ### Hi there! This is Alexandre!
 
-- 👨‍💻 I'm learning Java and Hacking.
+- 👨‍💻 I'm learning Java and Pentest.
 - 🎵 I love to listen lo-fi for homework, study, programming and others.
 - 🎮 Play games is my leisure in spare time.
 - 📚 I like to read books and ebooks.
