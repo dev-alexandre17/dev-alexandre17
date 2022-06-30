@@ -1,6 +1,6 @@
 ### Hi there! This is Alexandre!
 
-- 👨‍💻 I'm learning Java and Automação RPA.
+- 👨‍💻 I'm learning Java and RPA.
 - 🎵 I love to listen lo-fi for homework, study, programming and others.
 - 🎮 Play games is my leisure in spare time.
 - 📚 I like to read books and ebooks.
