@@ -1,4 +1,4 @@
-<img align="center" alt="Banner-java-alexandre" height="270" width="1200" src="https://user-images.githubusercontent.com/83430934/194762871-fa0a78cc-c52e-4c50-90dc-68173e36d666.gif">
+<img align="center" alt="Banner-alexandre" height="250" width="1200" src="https://user-images.githubusercontent.com/83430934/194764994-743780e3-a339-4e8f-a6d4-f237500a0708.jpg">
 
  <div>
   <a href="https://github.com/dev-alexandre17">
