@@ -1,6 +1,9 @@
  
  
  
+ <div align="center">
+  <h2> GitHub Stats </h2>
+ </div>
  
  <p align="center">
     <a href="https://github.com/dev-alexandre17/dev-alexandre17"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -8,23 +11,80 @@
     src="https://img.shields.io/github/contributors/dev-alexandre17/dev-alexandre17?color=blue"></a>
     <a href="https://github.com/dev-alexandre17/dev-alexandre17/stargazers"><img src="https://img.shields.io/github/stars/dev-alexandre17/dev-alexandre17.svg?logo=github"></a>
     <a href="https://github.com/dev-alexandre17/dev-alexandre17/network/members"><img src="https://img.shields.io/github/forks/dev-alexandre17/dev-alexandre17.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexandre17.dev-alexandre17" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexandre17.dev-alexandre17" alt="visitors"/> 
+    <img src="https://img.shields.io/github/followers/dev-alexandre17.svg?style=social&label=Follow&maxAge=2592000">
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-## Skills 
-
-<div>
- <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<div align="center">
+    <table>
+        <tr>
+            <th> Property </th>
+            <th> Data </th>
+        </tr>
+        <tr>
+            <td> Language </td>
+            <td> 
+             <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+             <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+             <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+             <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+             <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+            </td>
+        </tr>
+        <tr>
+            <td> Cloud </td>
+            <td> 
+              <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+            </td>
+        </tr>
+        <tr>
+            <td> Database </td>
+            <td>
+              <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+            </td>
+        </tr>
+        <tr>
+            <td> Design </td>
+            <td>
+              <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+            </td>
+        </tr>
+        <tr>
+            <td> Education </td>
+            <td> 
+              <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+              <img align="center" src="	https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+            </td
+        </td>
+        <tr>
+            <td> IDE </td>
+            <td> 
+              <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+              <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+              <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+            </td>
+        </tr>
+        <tr>
+            <td> Office </td>
+            <td> Volta para uma pasta anterior da atual.
+        </tr>
+        <tr>
+            <td> cd + letras inicias do diretório + tab </td>
+            <td> Autocomplete para entrar na pasta de forma rápida ou sugerir diretórios correspondente as letras informadas. </td>
+        </tr>
+   </table>
 </div>
-
-<br>
-
  <div>
   <a href="https://github.com/dev-alexandre17">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
