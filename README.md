@@ -1,4 +1,6 @@
- <p align="center">
+<img src="https://user-images.githubusercontent.com/83430934/194776284-ae591f82-4958-4e29-b4e8-7755eb6950c8.gif">
+
+<p align="center">
     <a href="https://github.com/dev-alexandre17/dev-alexandre17"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/dev-alexandre17/dev-alexandre17/graphs/contributors"><img
     src="https://img.shields.io/github/contributors/dev-alexandre17/dev-alexandre17?color=blue"></a>
@@ -7,8 +9,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexandre17.dev-alexandre17" alt="visitors"/> 
     <img src="https://img.shields.io/github/followers/dev-alexandre17.svg?style=social&label=Follow&maxAge=2592000">
 </p>
-
-<img src="https://user-images.githubusercontent.com/83430934/194776284-ae591f82-4958-4e29-b4e8-7755eb6950c8.gif">
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
