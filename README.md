@@ -22,13 +22,5 @@
   <img align="center" alt="Alexandre-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Alexandre-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Alexandre-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="right" alt="Alexandre-Profile" src="https://media.discordapp.net/attachments/840008962711224330/927275457068556308/github-profile.png?width=130&height=130">
 </div>
- 
- ##
-  
-  ![Snake animation](https://github.com/dev-alexandre17/dev-alexandre17/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
   
