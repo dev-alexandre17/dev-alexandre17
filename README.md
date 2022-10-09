@@ -113,8 +113,8 @@
 <div>
   <a href="https://github.com/dev-alexandre17">
   <img src="https://activity-graph.herokuapp.com/graph?username=dev-alexandre17&hide_border=true&theme=react">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-alexandre17&theme=react">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-alexandre17&theme=react">
 </div>
   
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
