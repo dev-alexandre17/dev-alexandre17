@@ -1,5 +1,3 @@
-<img align="center" alt="Banner-alexandre" height="250" width="1200" src="https://user-images.githubusercontent.com/83430934/194764994-743780e3-a339-4e8f-a6d4-f237500a0708.jpg">
-
  <div>
   <a href="https://github.com/dev-alexandre17">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
