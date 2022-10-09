@@ -58,7 +58,7 @@
             <td> Education </td>
             <td> 
               <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
-              <img align="center" src="	https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
             </td
         </td>
@@ -77,14 +77,27 @@
         </tr>
         <tr>
             <td> Office </td>
-            <td> Volta para uma pasta anterior da atual.
+            <td>
+              <img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+            </td>
         </tr>
         <tr>
-            <td> cd + letras inicias do diretório + tab </td>
-            <td> Autocomplete para entrar na pasta de forma rápida ou sugerir diretórios correspondente as letras informadas. </td>
+            <td> Terminal </td>
+            <td> 
+              <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+              <img align="center" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+            </td>
         </tr>
    </table>
 </div>
+ 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+ 
  <div>
   <a href="https://github.com/dev-alexandre17">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
