@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&width=435&lines=Hi+there!+This+is+Alexandre!+%3A);Welcome+to+my+profile!;Interested+subjects+in+Java%2C+IT+;and+IA;+Always+studying+news+things;+Experimenting+with+various+languages;For+2+years" alt="Typing SVG" /></a>
-
 <img src="https://user-images.githubusercontent.com/83430934/194776284-ae591f82-4958-4e29-b4e8-7755eb6950c8.gif">
+
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&width=435&lines=Hi+there!+This+is+Alexandre!+%3A);Welcome+to+my+profile!;Interested+subjects+in+Java%2C+IT+;and+IA;+Always+studying+news+things;+Experimenting+with+various+languages;For+2+years" alt="Typing SVG" /></a>
 
 <p align="center">
     <a href="https://github.com/dev-alexandre17/dev-alexandre17"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -27,7 +27,7 @@
             <th> Data </th>
         </tr>
         <tr>
-            <td> Language </td>
+            <td> 👨‍💻 Language </td>
             <td> 
              <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
              <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -37,14 +37,14 @@
             </td>
         </tr>
         <tr>
-            <td> Cloud </td>
+            <td> ☁ Cloud </td>
             <td> 
               <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
             </td>
         </tr>
         <tr>
-            <td> Database </td>
+            <td> ⚡ Database </td>
             <td>
               <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -52,13 +52,13 @@
             </td>
         </tr>
         <tr>
-            <td> Design </td>
+            <td> 💻 Operating Systems </td>
             <td>
               <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
             </td>
         </tr>
         <tr>
-            <td> Education </td>
+            <td> 📚 Education </td>
             <td> 
               <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
@@ -66,7 +66,7 @@
             </td
         </td>
         <tr>
-            <td> IDE </td>
+            <td> 👩‍💻 IDE </td>
             <td> 
               <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
@@ -78,17 +78,7 @@
               <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
             </td>
         </tr>
-        <tr>
-            <td> Office </td>
-            <td>
-              <img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-            </td>
-        </tr>
-        <tr>
-            <td> Terminal </td>
+        <td> 💻 Terminal </td>
             <td> 
               <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
               <img align="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
