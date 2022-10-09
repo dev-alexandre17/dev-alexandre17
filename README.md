@@ -1,9 +1,4 @@
-### Hi there! This is Alexandre!
-
-- 👨‍💻 I'm learning Java.
-- 🎵 I love to listen lo-fi for homework, study, programming and others.
-- 🎮 Play games is my leisure in spare time.
-- 📚 I like to read books and ebooks.
+<img align="center" alt="Banner-java-alexandre" wdiht="1200" src="https://user-images.githubusercontent.com/83430934/194762871-fa0a78cc-c52e-4c50-90dc-68173e36d666.gif">
 
  <div>
   <a href="https://github.com/dev-alexandre17">
