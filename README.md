@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/83430934/194776284-ae591f82-4958-4e29-b4e8-7755eb6950c8.gif">
-
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&width=435&lines=Hi+there!+This+is+Alexandre!+%3A);Welcome+to+my+profile!;Interested+subjects+in+Java%2C+IT+;and+IA;+Always+studying+news+things;+Experimenting+with+various+languages;For+2+years" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif" /></a>
 
 <p align="center">
     <a href="https://github.com/dev-alexandre17/dev-alexandre17"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
