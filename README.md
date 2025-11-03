@@ -4,15 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif" /></a>
 
-<p align="center">
-    <a href="https://github.com/dev-alexandre17/dev-alexandre17"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/dev-alexandre17/dev-alexandre17/graphs/contributors"><img
-    src="https://img.shields.io/github/contributors/dev-alexandre17/dev-alexandre17?color=blue"></a>
-    <a href="https://github.com/dev-alexandre17/dev-alexandre17/stargazers"><img src="https://img.shields.io/github/stars/dev-alexandre17/dev-alexandre17.svg?logo=github"></a>
-    <a href="https://github.com/dev-alexandre17/dev-alexandre17/network/members"><img src="https://img.shields.io/github/forks/dev-alexandre17/dev-alexandre17.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexandre17.dev-alexandre17" alt="visitors"/> 
-</p>
-
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <div align="center">
