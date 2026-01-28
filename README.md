@@ -1,103 +1,59 @@
-<div align="center">
- <h2> Welcome to Alexandre's GitHub 🍵 </h2>
-</div>
-
-<a href="https://git.io/typing-svg"><img align="center" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif" /></a>
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<img src="banner.png"/>
 
 <div align="center">
- <h2> Knowledge </h2>
+  <a href="https://www.linkedin.com/in/alexandre-goncalo-da-silva-filho/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:alexandretec77@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://minimal-portfolio-one-lake.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  </a>
 </div>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<br>
 
-<div align="center">
-    <table>
-        <tr>
-            <th> Property </th>
-            <th> Data </th>
-        </tr>
-        <tr>
-            <td> 👨‍💻 Language </td>
-            <td> 
-             <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-             <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-             <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-             <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-             <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-            </td>
-        </tr>
-        <tr>
-            <td> ☁ Cloud </td>
-            <td> 
-              <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-            </td>
-        </tr>
-        <tr>
-            <td> ⚡ Database </td>
-            <td>
-              <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-            </td>
-        </tr>
-        <tr>
-            <td> 💻 Operating Systems </td>
-            <td>
-              <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-            </td>
-        </tr>
-        <tr>
-            <td> 📚 Education </td>
-            <td> 
-              <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-            </td
-        </td>
-        <tr>
-            <td> 👩‍💻 IDE </td>
-            <td> 
-              <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-              <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-              <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-            </td>
-        </tr>
-        <td> 💻 Terminal </td>
-            <td> 
-              <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-              <img align="center" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-            </td>
-   </table>
-</div>
- 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+## > whoami
+
+
+I'm a **Systems Analysis & Development** graduate based in Brazil.
+My core focus is **Backend Development** with **Java & Spring Boot**, but I also bring a strong background in **Technical Support**, which honed my problem-solving skills.
+Currently, I'm expanding my stack with **Python** to build practical projects.
+
+- 🔭 **Working on:** Personal portfolio & Java backend systems.
+- 📚 **Studying:** Python fundamentals applied to projects.
+- ⚡ **Fun fact:** I believe every complex problem has a simple solution (eventually).
 
 <div align="center">
-  <h2> GitHub Graph </h2>
+
+## > ls tech-stack
+
+<br>
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white" />
+
 </div>
-  
-<div>
-  <a href="https://github.com/dev-alexandre17">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-alexandre17&theme=react">
-</div>
-  
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<br>
 
 <div align="center">
-   <h2> 📫 Contact Information </h2>
-   <a href="https://www.linkedin.com/in/alexandre-goncalo-da-silva-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:alexandretec77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+## > git log --stat
+
+<a href="https://github.com/dev-alexandre17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=ffffff&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=000000" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/dev-alexandre17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alexandre17&layout=compact&theme=transparent&border_color=ffffff&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=000000" />
+</a>
+
 </div>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
