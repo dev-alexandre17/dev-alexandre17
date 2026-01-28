@@ -16,7 +16,6 @@
 
 ## > whoami
 
-
 I'm a **Systems Analysis & Development** graduate based in Brazil.
 My core focus is **Backend Development** with **Java & Spring Boot**, but I also bring a strong background in **Technical Support**, which honed my problem-solving skills.
 Currently, I'm expanding my stack with **Python** to build practical projects.
@@ -26,6 +25,8 @@ Currently, I'm expanding my stack with **Python** to build practical projects.
 - ⚡ **Fun fact:** I believe every complex problem has a simple solution (eventually).
 
 <div align="center">
+
+<br>
 
 ## > ls tech-stack
 
