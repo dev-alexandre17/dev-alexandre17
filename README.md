@@ -30,7 +30,6 @@ Currently, I'm expanding my stack with **Python** to build practical projects.
 
 ## > ls tech-stack
 
-<br>
 <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
