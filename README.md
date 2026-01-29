@@ -21,7 +21,7 @@ My core focus is **Backend Development** with **Java & Spring Boot**, but I also
 Currently, I'm expanding my stack with **Python** to build practical projects.
 
 - 🔭 **Working on:** Personal portfolio & Java backend systems.
-- 📚 **Studying:** Python fundamentals applied to projects.
+- 📚 **Studying:** Self-improvement and general studies.
 - ⚡ **Fun fact:** I believe every complex problem has a simple solution (eventually).
 
 <div align="center">
