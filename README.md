@@ -48,10 +48,10 @@ Currently, I'm expanding my stack with **Python** to build practical projects.
 ## > git log --stat
 
 <a href="https://github.com/dev-alexandre17">
-  <img height="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-alexandre17&theme=noctis_minimus" />
+  <img height="18%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-alexandre17&theme=noctis_minimus" />
 </a>
 <a href="https://github.com/dev-alexandre17">
-  <img height="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-alexandre17&theme=noctis_minimus" />
+  <img height="18%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-alexandre17&theme=noctis_minimus" />
 </a
 
 </div>
