@@ -48,11 +48,11 @@ Currently, I'm expanding my stack with **Python** to build practical projects.
 ## > git log --stat
 
 <a href="https://github.com/dev-alexandre17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-alexandre17&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=ffffff&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=000000" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-alexandre17&theme=noctis_minimus" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/dev-alexandre17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alexandre17&layout=compact&theme=transparent&border_color=ffffff&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=000000" />
-</a>
+<a href="https://github.com/dev-alexandre17">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-alexandre17&theme=noctis_minimus" />
+</a
 
 </div>
 
