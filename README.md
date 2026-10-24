@@ -28,8 +28,6 @@ Currently starting my career in Cloud Computing with AWS, deepening my skills th
 
 ## > ls tech-stack
 
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" />
